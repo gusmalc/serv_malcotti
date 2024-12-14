@@ -1,0 +1,19 @@
+[
+    {
+        "etiqueta":"HTML",
+        "codigo":"cod_html"
+    },
+    {
+        "etiqueta":"CSS",
+        "codigo":"cod_css"
+    },
+    {
+        "etiqueta":"JavaScript",
+        "codigo":"cod_js"
+    },
+    {
+        "etiqueta":"PHP",
+        "codigo":"cod_php"
+    }
+
+]

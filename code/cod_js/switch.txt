@@ -1,0 +1,11 @@
+switch (a) {
+    case 10:
+        // code;
+        break;
+    case 11:
+        // code;
+        break;
+    default:
+        // code;
+        break;
+}

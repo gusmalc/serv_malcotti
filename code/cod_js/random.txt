@@ -1,0 +1,5 @@
+let ran = Math.random(); // numero entre 0 y 1
+let min = 1; // incluido
+let max = 11; // excluido
+console.log(Math.random() * (max - min) + min); // con decimales
+console.log(Math.floor(Math.random() * (max - min)) + min); // sin decimales

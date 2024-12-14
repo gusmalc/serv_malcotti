@@ -1,0 +1,8 @@
+let arr = [1, 2, 3, 4,];
+let obj = {
+    mm: 2
+}
+let result = arr.filter(function (x) {
+    return x % this.mm === 0;;
+}, obj);
+console.log(result);

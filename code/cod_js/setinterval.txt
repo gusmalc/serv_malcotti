@@ -1,0 +1,9 @@
+var nint = 0;
+var inter = setInterval(function(){    
+    // codigo
+    nint++;
+    if(nint==10){
+        clearInterval(inter);
+        nint = 0;
+    }
+}, 1000);

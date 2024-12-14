@@ -1,0 +1,153 @@
+[
+    {
+        "categoria": "Condiconales",
+        "gists":[
+            {
+                "titulo_gist":"if else",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"ifelse"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Operador ternario",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"ternario"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"switch",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"switch"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Iteradores",
+        "gists":[
+            {
+                "titulo_gist":"for",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"for"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Array",
+        "gists":[
+            {
+                "titulo_gist":"forEach",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"foreach"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"map",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"map"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"filter",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"filter"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Fetch",
+        "gists":[
+            {
+                "titulo_gist":"Fetch get",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_get"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Fetch post",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_post"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Temporizadores",
+        "gists":[
+            {
+                "titulo_gist":"Set Timeout",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"settimeout"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Set Interval",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"setinterval"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Math",
+        "gists":[
+            {
+                "titulo_gist":"Random",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"random"
+                    }
+                ]                
+            }
+        ]
+    }    
+
+]
