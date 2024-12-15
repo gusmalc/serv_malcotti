@@ -1,72 +1,24 @@
 [
     {
         "categoria": "Head",
-        "gists":[
-            {
-                "titulo_gist":"Meta comunes",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "HTML",
-                        "codigo":"meta_comunes"
-                    }
-                ]                
-            },
-            {
-                "titulo_gist":"No Cache",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "HTML",
-                        "codigo":"no_cache"
-                    }
-                ]                
-            }
+        "fragmentos":[
+            { "titulo":"Meta comunes", "descripcion": "", "codigo": "meta_comunes"},
+            { "titulo":"No Cache", "descripcion": "", "codigo": "no_cache"}
         ]
     },
     {
         "categoria": "Imágenes",
-        "gists":[
-            {
-                "titulo_gist":"Icon",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "HTML",
-                        "codigo":"icon"
-                    }
-                ]                
-            },
-            {
-                "titulo_gist":"Picture",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "HTML",
-                        "codigo":"picture"
-                    }
-                ]                
-            }
+        "fragmentos":[
+            { "titulo":"Icon", "descripcion": "", "codigo": "icon"},
+            { "titulo":"Picture", "descripcion": "", "codigo": "picture"}
         ]
 
     },
     {
         "categoria": "Librerias",
-        "gists":[
-            {
-                "titulo_gist":"Cdn Bootstrap",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "CSS",
-                        "codigo":"add_bootstap_css"
-                    },
-                    {
-                        "descripcion": "JS",
-                        "codigo":"add_bootstap_js"
-                    }
-                ]                
-            }
+        "fragmentos":[
+            { "titulo":"CSS Cdn Bootstrap", "descripcion": "", "codigo": "add_bootstap_css"},
+            { "titulo":"JS Cdn Bootstrap", "descripcion": "", "codigo": "add_bootstap_js"}           
         ]
     }
     
