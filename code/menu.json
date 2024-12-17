@@ -12,6 +12,10 @@
         "codigo":"cod_js"
     },
     {
+        "etiqueta":"VUE",
+        "codigo":"cod_vue"
+    },
+    {
         "etiqueta":"PHP",
         "codigo":"cod_php"
     }
