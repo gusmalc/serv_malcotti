@@ -1,0 +1,44 @@
+[
+    {
+        "titulo":  "Referencias",
+        "items": [
+            {
+                "titulo": "Wikipedia",
+                "url": "https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_poblaci%C3%B3n"
+            },
+            {
+                "titulo": "CIA World Factbook",
+                "url": "https://www.cia.gov/library/publications/the-world-factbook/"
+            },
+            {
+                "titulo": "World Bank",
+                "url": "https://data.worldbank.org/"
+            },
+            {
+                "titulo": "United Nations",
+                "url": "https://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/index.html"
+            }
+        ]
+    },
+    {
+        "titulo":  "Librerias",
+        "items": [
+            {
+                "titulo": "Wikipedia",
+                "url": "https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_poblaci%C3%B3n"
+            },
+            {
+                "titulo": "CIA World Factbook",
+                "url": "https://www.cia.gov/library/publications/the-world-factbook/"
+            },
+            {
+                "titulo": "World Bank",
+                "url": "https://data.worldbank.org/"
+            },
+            {
+                "titulo": "United Nations",
+                "url": "https://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/index.html"
+            }
+        ]
+    }
+]
